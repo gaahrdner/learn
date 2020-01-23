@@ -1,6 +1,3 @@
-# learn
-Top resources to learn whatever.
-
-## GraphQL
+# GraphQL
 
 - [How to GraphQL](https://www.howtographql.com/)
